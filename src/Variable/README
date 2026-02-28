@@ -1,0 +1,24 @@
+Variable is a container which holds a value
+
+DataType VariableName = Vaule;
+
+Naming convections:-
+1.Legal identifiers and may contains unicode letteres and digits.
+2.Variable name can be starts from $,_ and letter
+3.Can't be java reservered keyword
+4.CamelCase
+5.For Constant Varible should be in CAPTIAL LETTERS
+
+Type of varaible:-
+1.Primitive
+2.References
+
+1.Primitive types are of 8 types:-
+a.char
+b.byte
+c.short
+d.int
+f.long
+g.float
+h.doulbe
+i.boolean
